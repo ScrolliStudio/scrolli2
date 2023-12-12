@@ -1,6 +1,6 @@
 var config = {
     style: 'mapbox://styles/branigan/cjz37rcb003ib1cr3s8rnkt2d',
-    accessToken: 'pk.eyJ1IjoibWJ4c29sdXRpb25zIiwiYSI6ImNrMm01aG9hdTBlZGwzbXQ1ZXVrNHNmejAifQ.QHQA0N6XPWddCXtvoODHZg',
+    accessToken: 'pk.eyJ1Ijoibmh0dmMiLCJhIjoiY2xuZGZsYnp1MDR4aDJpdzVodWc3c3NlNCJ9.Q1OjZBlfKCjMQ0YbD92zmw',
     showMarkers: false,
     theme: 'dark',
     use3dTerrain: true,
